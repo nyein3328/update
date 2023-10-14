@@ -1,0 +1,18 @@
+{
+//The version is for updates. If there is an update, the number must be changed to be greater than before.
+"Version":"1.1",
+// Link to update server
+"Url":"https://github.com/nyein3328/update/raw/main/update.zip" ,
+"Changelog":"
+Update WIFI VPN
+အားလုံး အဆင်ပြေကြပါစေ။
+
+",
+ // don't mess below
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
